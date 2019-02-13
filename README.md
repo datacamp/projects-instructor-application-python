@@ -7,7 +7,7 @@ See this [Intercom article](https://instructor-support.datacamp.com/projects/the
 
 There are some packages you need to be able to create DataCamp projects locally. Run the following commands in a terminal to install them.
 
-*You might need to change pip into pip3 depending on how you installed python.*
+*You might need to change pip into pip3 depending on how you installed Python.*
 
 ```
 pip install nose
